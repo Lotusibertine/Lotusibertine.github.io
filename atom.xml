@@ -6,7 +6,7 @@
   <link href="http://lotusibertine.github.io/atom.xml" rel="self"/>
   
   <link href="http://lotusibertine.github.io/"/>
-  <updated>2022-10-22T06:31:12.698Z</updated>
+  <updated>2022-10-23T15:26:21.252Z</updated>
   <id>http://lotusibertine.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>技术随想</title>
+    <link href="http://lotusibertine.github.io/posts/dfb8a81f.html"/>
+    <id>http://lotusibertine.github.io/posts/dfb8a81f.html</id>
+    <published>2022-10-23T14:39:15.000Z</published>
+    <updated>2022-10-23T15:26:21.252Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip home"><p>我是技术随想文章内容</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip home&quot;&gt;&lt;p&gt;我是技术随想文章内容&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
