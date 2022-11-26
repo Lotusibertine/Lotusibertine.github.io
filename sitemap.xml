@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lotusibertine.one/posts/6c648fec.html</loc>
+    
+    <lastmod>2022-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lotusibertine.one/posts/8df660ab.html</loc>
+    
+    <lastmod>2022-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lotusibertine.one/posts/140ab620.html</loc>
     
     <lastmod>2022-11-25</lastmod>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>http://lotusibertine.one/about/index.html</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lotusibertine.one/posts/8df660ab.html</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -115,14 +124,14 @@
   </url>
   
   <url>
-    <loc>http://lotusibertine.one/tags/tech/</loc>
+    <loc>http://lotusibertine.one/tags/else/</loc>
     <lastmod>2022-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://lotusibertine.one/tags/else/</loc>
+    <loc>http://lotusibertine.one/tags/tech/</loc>
     <lastmod>2022-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -131,7 +140,7 @@
 
   
   <url>
-    <loc>http://lotusibertine.one/categories/Hexo/</loc>
+    <loc>http://lotusibertine.one/categories/Thoughts/</loc>
     <lastmod>2022-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -145,7 +154,7 @@
   </url>
   
   <url>
-    <loc>http://lotusibertine.one/categories/Thoughts/</loc>
+    <loc>http://lotusibertine.one/categories/Hexo/</loc>
     <lastmod>2022-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
