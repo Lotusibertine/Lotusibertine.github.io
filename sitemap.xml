@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lotusibertine.one/music/index.html</loc>
+    
+    <lastmod>2023-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lotusibertine.one/about/index.html</loc>
+    
+    <lastmod>2023-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lotusibertine.one/posts/7342d5b5.html</loc>
     
     <lastmod>2023-03-16</lastmod>
@@ -39,15 +57,6 @@
   
   <url>
     <loc>http://lotusibertine.one/posts/140ab620.html</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lotusibertine.one/about/index.html</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -103,7 +112,7 @@
 
   <url>
     <loc>http://lotusibertine.one/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,28 +120,28 @@
   
   <url>
     <loc>http://lotusibertine.one/tags/Blog/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/tags/solutions/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/tags/else/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/tags/tech/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -141,28 +150,28 @@
   
   <url>
     <loc>http://lotusibertine.one/categories/Thoughts/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/categories/Win10-11/</loc>
-    <lastmod>2023-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://lotusibertine.one/categories/Hexo/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/categories/Life/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <lastmod>2023-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://lotusibertine.one/categories/Hexo/</loc>
+    <lastmod>2023-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
