@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lotusibertine.one/music/index.html</loc>
+    <loc>http://lotusibertine.one/categories/index.html</loc>
     
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lotusibertine.one/dailyPhoto/index.html</loc>
+    
+    <lastmod>2023-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lotusibertine.one/worldScenery/index.html</loc>
+    
+    <lastmod>2023-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lotusibertine.one/album/index.html</loc>
+    
+    <lastmod>2023-03-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +39,33 @@
   
   <url>
     <loc>http://lotusibertine.one/about/index.html</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lotusibertine.one/essay/index.html</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lotusibertine.one/posts/8df660ab.html</loc>
+    
+    <lastmod>2023-03-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lotusibertine.one/music/index.html</loc>
     
     <lastmod>2023-03-18</lastmod>
     
@@ -47,15 +101,6 @@
   </url>
   
   <url>
-    <loc>http://lotusibertine.one/posts/8df660ab.html</loc>
-    
-    <lastmod>2022-11-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://lotusibertine.one/posts/140ab620.html</loc>
     
     <lastmod>2022-11-25</lastmod>
@@ -75,15 +120,6 @@
   
   <url>
     <loc>http://lotusibertine.one/tags/index.html</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lotusibertine.one/categories/index.html</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -112,7 +148,7 @@
 
   <url>
     <loc>http://lotusibertine.one/</loc>
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,28 +156,28 @@
   
   <url>
     <loc>http://lotusibertine.one/tags/Blog/</loc>
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/tags/else/</loc>
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/tags/solutions/</loc>
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/tags/tech/</loc>
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -150,28 +186,28 @@
   
   <url>
     <loc>http://lotusibertine.one/categories/Thoughts/</loc>
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/categories/Life/</loc>
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/categories/Win10-11/</loc>
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lotusibertine.one/categories/Hexo/</loc>
-    <lastmod>2023-03-18</lastmod>
+    <lastmod>2023-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
